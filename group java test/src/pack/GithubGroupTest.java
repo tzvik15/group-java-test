@@ -8,5 +8,6 @@ public class GithubGroupTest {
     public static void main(String[] args) throws Exception {
         System.out.println("Daniel pulled and pushed");
         System.out.println("John pulled and pushed.");
+        System.out.println("Jason pulled and pushed - with Eclipse");
     }
 }
